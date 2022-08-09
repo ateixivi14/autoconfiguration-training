@@ -1,0 +1,6 @@
+
+message:
+  manual: "Manual message!"
+  auto: "Automatic message!"
+  conditional: "Conditional message!"
+  annotation: "Annotation message!"
